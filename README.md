@@ -1,13 +1,3 @@
- _____                                  ______                           
-|  __ \                                |  __  \                          
-| |__) |__  __ _ __ _ ___ _   _ ___    | |__) | __ _ _____  ___   ___  | | __ _ 
-|  ___/ _ \/ _` / _` / __| | | / __|   |  __ < / _` |_  / |/ _ \ / _ \ | |/ _` |
-| |  |  __/ (_| (_| \__ \ |_| \__ \    | |__) | (_| |/ /| | (_) | (_) || | (_| |
-|_|   \___|\__, \__,_|___/\__,_|___/   |_____/ \__,_/___|_|\___/ \___/ |_|\__,_|
-            __/ |                                                      
-           |___/                                                       
-```
-
 # Pegasus-Bazooka
 
 A powerful OSINT (Open Source Intelligence) tool for gathering geolocation data from various social media and open data sources.
