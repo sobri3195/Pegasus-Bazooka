@@ -1,0 +1,14 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+folium==0.14.0
+streamlit==1.30.0
+pandas==2.1.1
+geopy==2.4.1
+python-dateutil==2.8.2
+lxml==4.9.3
+html5lib==1.1
+tweepy==4.14.0
+flickrapi==2.4.0
+numpy==1.26.0
+pillow==10.0.1
+tqdm==4.66.1 
